@@ -16,7 +16,7 @@ A sample application to show how products can be created and updated in the data
 
 ## Information
 
-Screenshots of your application below:
+Screenshot below:
 
 ![Screenshot 1](app/assets/images/ss.png)
 
